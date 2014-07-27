@@ -7,6 +7,8 @@ The R script in run_analysis.R was written to clean and tidy data from a study a
 
 The study itself can be found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
+The data was tidied to a 'wide' table with one row per subject/activty and each measurement as one column.
+
 # Method
 
 the steps involved cleaning the data are as follows:
