@@ -1,4 +1,4 @@
-Getting and cleaning Data assigment
+Getting and cleaning Data assignment
 ===================================
 
 # Desciption
