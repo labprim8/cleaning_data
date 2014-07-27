@@ -23,7 +23,7 @@ the steps involved cleaning the data are as follows:
 
 6. any column which did not end with mean() or std(), with the exception of analysis and subject, was removed from the set leaving 68 columns. This was done using the grep command and the following regex 
 
-	mean\\(\\)|std\\(\\)|Subject|activity
+    mean\\(\\)|std\\(\\)|Subject|activity
 
 7. the numbers which correspond to the activity_labels were replaced with the text description to make the data more readable using the factor function
 
